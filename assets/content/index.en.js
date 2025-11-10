@@ -1,9 +1,9 @@
 var pageContent = {
-  "page-title": "Para ad cogitantum - Mental Gymnasium",
-  "main-title": "Para ad cogitantum",
+  "page-title": "Para ad cogitandum - Mental Gymnasium",
+  "main-title": "Para ad cogitandum",
   "subtitle": "(A Gymnasium for Critical Thinking)",
   "mission-title": "Our Mission",
-  "mission-text": "Welcome to <i>Para ad cogitantum</i>. This is not just a collection of *prompts*. It is a <b>mental gymnasium</b>. Our mission is to use AI as a Socratic <i>sparring partner</i> to sharpen your ability to think. These *prompts* were designed with a method combining pedagogy, philosophy, dialectics, and rhetoric to attack 'mental laziness' and build robust logic. They are free, open-source, and yours to use.",
+  "mission-text": "Welcome to <i>Para ad cogitandum</i>. This is not just a collection of *prompts*. It is a <b>mental gymnasium</b>. Our mission is to use AI as a Socratic <i>sparring partner</i> to sharpen your ability to think. These *prompts* were designed with a method combining pedagogy, philosophy, dialectics, and rhetoric to attack 'mental laziness' and build robust logic. They are free, open-source, and yours to use.",
   "training-title": "Your Training (MVP)",
   "prompt-pillar-title": "MODULE 1: The Logical Tutor (The Pillar)",
   "prompt-pillar-desc": "Level: High School / University. Pure strength training. Learn to deconstruct texts and separate argument from noise.",
