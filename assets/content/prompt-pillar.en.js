@@ -1,4 +1,4 @@
-const pageContent = {
+var pageContent = {
   "page-title": "The Logical Tutor - Para ad cogitantum",
   "main-title": "Module 1: The Logical Tutor (The Pillar)",
   "back-button": "⬅️ Back to the Gymnasium",
