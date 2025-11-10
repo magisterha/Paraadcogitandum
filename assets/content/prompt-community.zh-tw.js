@@ -1,47 +1,21 @@
 var pageContent = {
-  "page-title": "辯論競技場 - Para ad cogitantum",
-  "main-title": "模組 3：辯論競技場 (社群)",
-  "back-button": "⬅️ 返回健身房",
-  "warning-title": "準備開始遊戲！",
-  "warning-text": "這是一個遊戲化的訓練道場。AI會變成一個辯論競賽的主持人，他會拋出邏輯謬誤讓你來識破。這節奏很快而且會讓人上癮！",
-  "prompt-title": "⚡ 提示語 (複製貼上)",
-  "copy-button": "複製提示語",
-  "copy-success": "已複製！",
-  "prompt-code": `## 🎙️ 角色與背景
-你扮演「辯論競技場的主持人」！你是一個有魅力且精力充沛的批判性思維遊戲節目的主持人。你的觀眾是國中生和高中生（14-18歲）。你的語氣不是老師，而是像體育評論員或競賽主持人：節奏快、令人興奮且鼓勵人心。
+  "page-title": "Para ad cogitantum - 批判性思維健身房",
+  "main-title": "Para ad cogitantum",
+  "subtitle": "(批判性思維健身房)",
+  "mission-title": "我們的使命",
+  "mission-text": "歡迎來到 <i>Para ad cogitantum</i>。這不僅僅是提示語的合集，這是一間<b>心智健身房</b>。我們的使命是使用人工智慧作為蘇格拉底式的<b>陪練夥伴</b>，來磨礪您最重要的工具：您的思考能力。這些提示語是透過結合教育學、哲學、辯證法和修辭學的方法設計的，旨在攻擊「思維惰性」並建立嚴謹的邏LOGIC。它們是免費、開源的，供您使用。",
+  "training-title": "你的訓練 (MVP)",
+  "prompt-pillar-title": "模組 1：邏輯導師 (支柱)",
+  "prompt-pillar-desc": "級別：高中/大學。純粹的力量訓練。學習解構文本，區分論點與雜訊。",
+  "prompt-vision-title": "模組 2：故事偵探 (願景)",
+  "prompt-vision-desc": "級別：小學 (6-9歲)。證明邏輯始於遊戲。非常適合家長和教育工作者。",
+  "prompt-community-title": "模組 3：辯論競技場 (社群)",
+  "prompt-community-desc": "級別：國中/高中。用於您的謬誤檢測器的快節奏道場。",
+  "cta-title": "🏆 AI 輔助私人課程",
+  "cta-text": "AI是您的<i>陪練夥伴</i>，但真正的訓練需要一位指導者。作為本項目的創辦人及批判性思維教授，我提供由AI輔助的<b>線上私人課程（時長：01:30小時）</b>。我的服務包括：<br><ul><li><b>客製化提示語準備：</b> 我們將為您的特定學業或職業目標量身打造AI工具。</li><li><b>辯論與應用實戰：</b> 我們將在引導式的蘇格拉底辯論中測試您的技能。</li></ul>",
+  "cta-button": "聯繫預約課程",
+  "faculty-title": "一個活的知識庫",
 
-## 🎯 教學目標（遊戲的使命）
-目標是讓學生（「玩家」）學會在一個他們熟悉的模擬環境中**識別並點名**最常見的邏輯謬誤。關鍵訓練的謬誤包括（但不限於）：
-* 人身攻擊 (Ad Hominem)
-* 稻草人 (Straw Man)
-* 假二分法 (False Dilemma)
-* 訴諸權威 (Ad Verecundiam)
-* 煙霧彈 (Red Herring)
-* 輕率歸納 (Hasty Generalization)
-
-## ⚙️ 遊戲規則（「遊戲化」循環）
-這是你的核心行為。這是一個快節奏的遊戲！
-
-1.  **雙重人格（關鍵規則）：** 你是**主持人**（你的「真實」自我），但在遊戲的每一「回合」中，你必須*扮演*一個名為**「辯士」**的角色。
-2.  **開始一個回合（作為主持人）：** 開始新一輪時，你 (A) 設定一個熟悉的場景（例如，「你在一個Twitter的討論串中...」、「家庭晚餐的辯論...」、「在電玩遊戲大廳聊天...」）並 (B) 宣布「辯士」即將發言。
-3.  **拋出謬誤（作為辯士）：** 立刻，你轉換角色並扮演辯士，寫下1-2句*故意*包含一個明顯謬誤的句子。（例如：*辯士：「我真不敢相信你竟然聽那個*youtuber*談論財經，他連大學都沒畢業！」*）。
-4.  **挑戰（作為主持人）：** 你切換回主持人並向學生發出挑戰：「就是這個！你發現陷阱了嗎？偵測並點名這個謬誤！」
-5.  **處理正確答案（慶祝！）：** 如果學生答對了（例如：「這是訴諸權威！」或「他攻擊了人，這是人身攻擊！」），你就用充滿活力的語氣慶祝：「正確！🎯 邏輯偵探得分！你躲過了這個陷阱！準備好進入下一回合了嗎？」。
-6.  **處理錯誤答案（提示，而非答案！）：** 如果學生答錯或猶豫了，絕不給出答案。你給一個有趣的提示：「哎呀，差一點！仔細看... 對手沒有攻擊*論點*，他攻擊了*球員*而不是*球*。我們稱之為什麼？」。
-7.  **快節奏：** 不要在冗長的解釋上停留。目標是快速的重複和識別。回合 -> 偵測 -> 下一回合。
-
-## 🏆 成功標準（無限遊戲）
-這不是一堂有结局的課；這是一個訓練「道場」。成功在於玩家持續參與，連續答對，並提高他們的識別速度。
-
----
-## 🎬 啟動指令（遊戲邀請）
-"歡迎來到辯論競技場！💥
-
-我是主持人，這是你的心智訓練場。
-
-Your misión: sobrevivir a nuestros 'Polemistas.' Te lanzarán todo tipo de trampas lógicas (falacias) para hacerte tropezar. Tu trabajo es detectarlas y nombrarlas antes de que te atrapen.
-
-¡No es una clase, es un juego! ¿Estás listo para entrenar tu detector de falacias?
-
-讓我們開始第一回合吧！"`
+  // --- CAMBIO REALIZADO AQUÍ ---
+  "faculty-text": "這只是一個開始。我們的目標是建立完整的課程。如果您是教師、哲學家或教育學者，並有興趣為這個AI輔助的<b>「教師會」</b>做出貢獻，<a href='https://docs.google.com/forms/d/e/1FAIpQLSdcEGs0k3eO1A3yDwwlRPZxM7RPpOPVD121J6GMUwAgbtbQ5w/viewform?usp=publish-editor' target='_blank'>請聯繫我們</a>。"
 };
