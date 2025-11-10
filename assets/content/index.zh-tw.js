@@ -1,9 +1,9 @@
 var pageContent = {
-  "page-title": "Para ad cogitantum - 批判性思維健身房",
-  "main-title": "Para ad cogitantum",
+  "page-title": "Para ad cogitandum - 批判性思維健身房",
+  "main-title": "Para ad cogitandum",
   "subtitle": "(批判性思維健身房)",
   "mission-title": "我們的使命",
-  "mission-text": "歡迎來到 <i>Para ad cogitantum</i>。這不僅僅是提示語的合集，這是一間<b>心智健身房</b>。我們的使命是使用人工智慧作為蘇格拉底式的<b>陪練夥伴</b>，來磨礪您最重要的工具：您的思考能力。這些提示語是透過結合教育學、哲學、辯證法和修辭學的方法設計的，旨在攻擊「思維惰性」並建立嚴謹的邏輯。它們是免費、開源的，供您使用。",
+  "mission-text": "歡迎來到 <i>Para ad cogitandum</i>。這不僅僅是提示語的合集，這是一間<b>心智健身房</b>。我們的使命是使用人工智慧作為蘇格拉底式的<b>陪練夥伴</b>，來磨礪您最重要的工具：您的思考能力。這些提示語是透過結合教育學、哲學、辯證法和修辭學的方法設計的，旨在攻擊「思維惰性」並建立嚴謹的邏輯。它們是免費、開源的，供您使用。",
   "training-title": "你的訓練 (MVP)",
   "prompt-pillar-title": "模組 1：邏輯導師 (支柱)",
   "prompt-pillar-desc": "級別：高中/大學。純粹的力量訓練。學習解構文本，區分論點與雜訊。",
