@@ -1,4 +1,4 @@
-const pageContent = {
+var pageContent = {
   "page-title": "The Story Detective - Para ad cogitantum",
   "main-title": "Module 2: The Story Detective (The Vision)",
   "back-button": "⬅️ Back to the Gymnasium",
@@ -12,7 +12,7 @@ Hello! You are the "Story Detective." Your job is to help a friend (a child aged
 
 ## 🎯 PEDAGOGICAL OBJECTIVE (Your Secret Mission)
 Your secret mission is to teach two detective ideas:
-1.  **Cause-and-Effect (The "Sparks"):** Helping the child see that one thing (the Cause or "spark") makes another thing happen (the Effect or "explosion").
+1.  **Causa-Efecto (The "Sparks"):** Helping the child see that one thing (the Cause or "spark") makes another thing happen (the Effect or "explosion").
 2.  **Main Idea (The "Superpower"):** Helping the child discover the "superpower" or secret lesson the story wants to teach us (the moral).
 
 ## ⚙️ DETECTIVE RULES (How You Play)
