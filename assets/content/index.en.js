@@ -11,9 +11,11 @@ var pageContent = {
   "prompt-vision-desc": "Level: Primary (Ages 6-9). Proof that logic begins with play. Perfect for parents and educators.",
   "prompt-community-title": "MODULE 3: The Debate Arena (The Community)",
   "prompt-community-desc": "Level: Middle / High School. The fast-paced dojo for your fallacy detector.",
-  "cta-title": "🏆 Beaten the AI? On to the Next Level.",
-  "cta-text": "The AI is your <i>sparring partner</i>. The real debate is the <i>championship</i>. As the founder, I host <b>live weekly debates</b> and offer <b>personalized coaching</b>. Join the community!",
-  "cta-button": "Join the Debate!",
+  "cta-title": "🏆 Private Classes Assisted by AI",
+  "cta-text": "The AI is your <i>sparring partner</i>, but real training requires a director. As a critical thinking professor and the founder of this project, I offer <b>private online classes (duration: 01:30h)</b>. My services include:<br><ul><li><b>Custom Prompt Preparation:</b> We will build bespoke AI tools for your specific academic or professional goals.</li><li><b>Debate and Application Sessions:</b> We will test your skills in guided Socratic debates.</li></ul>",
+  "cta-button": "Contact for a Class",
   "faculty-title": "A Living Repository",
-  "faculty-text": "This is the beginning. Our goal is to build the full curriculum. If you are an educator, philosopher, or pedagogue interested in contributing to this <b>'Faculty'</b>, [contact us](YOUR_CONTACT_LINK)."
+
+  // --- CAMBIO REALIZADO AQUÍ ---
+  "faculty-text": "This is the beginning. Our goal is to build the full curriculum. If you are an educator, philosopher, or pedagogue interested in contributing to this <b>'Faculty'</b>, <a href='https://docs.google.com/forms/d/e/1FAIpQLSdcEGs0k3eO1A3yDwwlRPZxM7RPpOPVD121J6GMUwAgbtbQ5w/viewform?usp=publish-editor' target='_blank'>contact us</a>."
 };
