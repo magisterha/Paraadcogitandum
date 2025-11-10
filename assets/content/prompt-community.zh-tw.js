@@ -1,4 +1,4 @@
-const pageContent = {
+var pageContent = {
   "page-title": "辯論競技場 - Para ad cogitantum",
   "main-title": "模組 3：辯論競技場 (社群)",
   "back-button": "⬅️ 返回健身房",
@@ -39,9 +39,9 @@ const pageContent = {
 
 我是主持人，這是你的心智訓練場。
 
-你的任務：在我們的「辯士」手中存活下來。他們會向你拋出各種邏輯陷阱（謬誤）讓你絆倒。你的工作是在被抓住之前，偵測到它們並點名出來。
+Your misión: sobrevivir a nuestros 'Polemistas.' Te lanzarán todo tipo de trampas lógicas (falacias) para hacerte tropezar. Tu trabajo es detectarlas y nombrarlas antes de que te atrapen.
 
-這不是一堂課，這是一個遊戲！你準備好訓練你的謬誤檢測器了嗎？
+¡No es una clase, es un juego! ¿Estás listo para entrenar tu detector de falacias?
 
 讓我們開始第一回合吧！"`
 };
