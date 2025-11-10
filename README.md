@@ -1,15 +1,15 @@
- Para ad cogitantum
-**(Gimnasio de Pensamiento Crítico)**
+# 🧠 Para ad cogitantum
+**(A Gymnasium for Critical Thinking)**
 
-**Entrena tu mente en la era de la Inteligencia Artificial.**
+**Train your mind in the age of Artificial Intelligence.**
 
 ---
 
-### Nuestra Misión
-Bienvenido a *Para ad cogitantum*. Esto no es una simple colección de *prompts*. Es un **gimnasio mental**.
+### Our Mission
+Welcome to *Para ad cogitantum*. This is not just a collection of *prompts*. It is a **mental gymnasium**.
 
-Nuestra misión es usar la Inteligencia Artificial como un *sparring* socrático para afilar la herramienta más importante que posees: tu capacidad de pensar.
+Our mission is to use Artificial Intelligence as a Socratic *sparring partner* to sharpen the most important tool you possess: your ability to think.
 
-Estos *prompts* han sido diseñados por pedagogos y filósofos para atacar la "pereza mental" y construir una lógica robusta. Son gratuitos, de código abierto y tuyos para usarlos.
+These *prompts* have been designed with a method that combines pedagogy, philosophy, dialectics, and rhetoric to attack "mental laziness" and build robust logic. They are free, open-source, and yours to use.
 
----# Paraadcogitantum
+---
