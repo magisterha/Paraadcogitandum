@@ -1,4 +1,4 @@
-const pageContent = {
+var pageContent = {
   "page-title": "La Arena de Debate - Para ad cogitantum",
   "main-title": "Módulo 3: La Arena de Debate (La Comunidad)",
   "back-button": "⬅️ Volver al Gimnasio",
