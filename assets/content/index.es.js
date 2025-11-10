@@ -11,9 +11,11 @@ var pageContent = {
   "prompt-vision-desc": "Nivel: Primaria (6-9 años). La prueba de que la lógica empieza jugando. Perfecto para padres y educadores.",
   "prompt-community-title": "MÓDULO 3: La Arena de Debate (La Comunidad)",
   "prompt-community-desc": "Nivel: Secundaria / Bachillerato. El 'dojo' de ritmo rápido para tu detector de falacias.",
-  "cta-title": "🏆 ¿Has vencido a la IA? Pasa al Siguiente Nivel.",
-  "cta-text": "La IA es tu <i>sparring</i>. El debate real es el <i>campeonato</i>. Como fundador de este proyecto, dirijo <b>debates semanales en vivo</b> y ofrezco <b>asesorías personalizadas</b>. ¡Únete a la comunidad!",
-  "cta-button": "¡Quiero unirme al debate!",
+  "cta-title": "🏆 Clases Particulares Asistidas por IA",
+  "cta-text": "La IA es su <i>sparring</i>, pero el entrenamiento real requiere un director. Como profesor de pensamiento crítico y fundador de este proyecto, ofrezco <b>clases particulares en línea (duración: 01:30h)</b>. Mis servicios incluyen:<br><ul><li><b>Preparación de Prompts Personalizados:</b> Crearemos herramientas de IA a medida para sus objetivos de estudio o profesionales.</li><li><b>Sesiones de Debate y Aplicación:</b> Pondremos a prueba sus habilidades en debates socráticos dirigidos.</li></ul>",
+  "cta-button": "Contactar para una Clase",
   "faculty-title": "Un Repositorio VIVO",
-  "faculty-text": "Este es el inicio. Nuestro objetivo es construir el currículo completo. Si eres un docente, filósofo o pedagogo y te interesa contribuir a este <b>'Claustro'</b>, [contacta con nosotros](TU_ENLACE_DE_CONTACTO)."
+  
+  // --- CAMBIO REALIZADO AQUÍ ---
+  "faculty-text": "Este es el inicio. Nuestro objetivo es construir el currículo completo. Si eres un docente, filósofo o pedagogo y te interesa contribuir a este <b>'Claustro'</b>, <a href='https://docs.google.com/forms/d/e/1FAIpQLSdcEGs0k3eO1A3yDwwlRPZxM7RPpOPVD121J6GMUwAgbtbQ5w/viewform?usp=publish-editor' target='_blank'>contacta con nosotros</a>."
 };
