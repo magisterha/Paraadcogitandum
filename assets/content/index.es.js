@@ -1,9 +1,9 @@
 var pageContent = {
-  "page-title": "Para ad cogitantum - Gimnasio Mental",
-  "main-title": "Para ad cogitantum",
+  "page-title": "Para ad cogitandum - Gimnasio Mental",
+  "main-title": "Para ad cogitandum",
   "subtitle": "(Gimnasio de Pensamiento Crítico)",
   "mission-title": "Nuestra Misión",
-  "mission-text": "Bienvenido a <i>Para ad cogitantum</i>. Esto no es una simple colección de *prompts*. Es un <b>gimnasio mental</b>. Nuestra misión es usar la IA como un <i>sparring</i> socrático para afilar tu capacidad de pensar. Estos *prompts* han sido diseñados con un método que combina pedagogía, filosofía, dialéctica y retórica para atacar la 'pereza mental' y construir una lógica robusta. Son gratuitos, de código abierto y tuyos para usarlos.",
+  "mission-text": "Bienvenido a <i>Para ad cogitandum</i>. Esto no es una simple colección de *prompts*. Es un <b>gimnasio mental</b>. Nuestra misión es usar la IA como un <i>sparring</i> socrático para afilar tu capacidad de pensar. Estos *prompts* han sido diseñados con un método que combina pedagogía, filosofía, dialéctica y retórica para atacar la 'pereza mental' y construir una lógica robusta. Son gratuitos, de código abierto y tuyos para usarlos.",
   "training-title": "Tu Entrenamiento (MVP)",
   "prompt-pillar-title": "MÓDULO 1: El Tutor Lógico (El Pilar)",
   "prompt-pillar-desc": "Nivel: Bachillerato / Universidad. El entrenamiento de 'fuerza' pura. Aprende a deconstruir textos y a separar el argumento del ruido.",
