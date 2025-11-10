@@ -451,4 +451,3 @@ Let's start the first round!"`
     }
   }
 };
-```
