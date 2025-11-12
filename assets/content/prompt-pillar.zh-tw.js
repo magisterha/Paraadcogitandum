@@ -3,7 +3,7 @@ var pageContent = {
   "main-title": "模組 1：邏輯導師 (支柱)",
   "back-button": "⬅️ 返回健身房",
   "warning-title": "開始前的警告！",
-  "warning-text": "這個提示語是一個 <b>relentless 蘇格拉底式導師</b>。 1. 它<b>不會</b>給你答案。 2. 它<b>只會</b>問你問題。 3. 這個過程<b>會</b>令人沮喪。這是故意設計的。接受挑戰吧。",
+  "warning-text": "這個提示語是一個 <b>持續嚴厲的蘇格拉底式導師</b>。 1. 它<b>不會</b>給你答案。 2. 它<b>只會</b>問你問題。 3. 這個過程<b>會</b>令人沮喪。這是故意設計的。接受挑戰吧。",
   "prompt-title": "⚡ 提示語 (複製貼上)",
   "copy-button": "複製提示語",
   "copy-success": "已複製！",
