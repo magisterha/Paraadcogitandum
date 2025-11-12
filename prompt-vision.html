@@ -7,9 +7,7 @@
     <link rel="stylesheet" href="assets/style.css">
 </head>
 
-<body id="prompt-vision">
-
-    <div class="container">
+<body id="module2"> <div class="container">
         <header>
             <div class="lang-switcher">
                 <a href="#" data-lang="es">ES</a> |
@@ -20,17 +18,36 @@
 
         <main>
             <a href="index.html" class="back-link" data-i18n="back-button"></a>
+            
             <h1 data-i18n="main-title"></h1>
 
-            <div class="warning-box">
-                <h3 data-i18n="warning-title"></h3>
-                <p data-i18n="warning-text"></p>
-            </div>
+            <article class="doc-section hook">
+                <h3 data-i18n="hook-title"></h3>
+                <p data-i18n="hook-text"></p>
+            </article>
+            
+            <hr>
+
+            <article class="doc-section method">
+                <h3 data-i18n="method-title"></h3>
+                <p data-i18n="method-text"></p>
+            </article>
+            
+            <article class="doc-section guide">
+                <h3 data-i18n="guide-title"></h3>
+                <p data-i18n="guide-text"></p>
+            </article>
+
+            <article class="doc-section project-about">
+                <h3 data-i18n="project-title"></h3>
+                <p data-i18n="project-text"></p>
+            </article>
 
             <h2 data-i18n="prompt-title"></h2>
             
             <div class="prompt-container">
                 <button id="copy-button" class="copy-button" data-i18n="copy-button"></button>
+                
                 <pre><code id="prompt-code">Cargando prompt...</code></pre>
             </div>
         </main>
