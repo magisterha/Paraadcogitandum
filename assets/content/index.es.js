@@ -11,10 +11,12 @@ var pageContent = {
   "prompt-vision-desc": "Nivel: Primaria (6-9 años). La prueba de que la lógica empieza jugando. Perfecto para padres y educadores.",
   "prompt-community-title": "MÓDULO 3: La Arena de Debate (La Comunidad)",
   "prompt-community-desc": "Nivel: Secundaria / Bachillerato. El 'dojo' de ritmo rápido para tu detector de falacias.",
-  
-  // --- CLAVES DEL MÓDULO 4 (ESTO ES LO QUE FALTA) ---
   "prompt-refutation-1-title": "MÓDULO 4: El Juego del Espejo (Primaria)",
   "prompt-refutation-1-desc": "Nivel: Primaria. ¡Pilla a Ojo-Loro! Un juego para detectar contradicciones entre palabras y acciones.",
+
+  // --- ¡NUEVO MÓDULO AÑADIDO! ---
+  "prompt-orator-title": "MÓDULO 5: El Orador Socrático (Avanzado)",
+  "prompt-orator-desc": "Nivel: Avanzado / Universidad. El gimnasio de 'sparring' intelectual. Deconstruye la lógica de Cicerón palabra por palabra.",
   // --- FIN DE LA ADICIÓN ---
 
   "cta-title": "🏆 Clases Particulares Asistidas por IA",
