@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- El título se cargará desde el script de idioma -->
+    <title data-i18n="page-title">Cargando...</title>
+    <!-- Enlazamos la hoja de estilos -->
+    <link rel="stylesheet" href="assets/style.css">
+    <!-- Fuente Inter y Merriweather para un look moderno y legible -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<!-- ID específico para este módulo -->
+<body id="prompt-orator">
+
+    <div class="container">
+        <header>
+            <!-- El conmutador de idioma -->
+            <div class="lang-switcher">
+                <a href="#" data-lang="es">ES</a> |
+                <a href="#" data-lang="en">EN</a> |
+                <a href="#" data-lang="zh-tw">ZH</a> <!-- Usamos zh-tw para Chino Tradicional (Taiwán) -->
+            </div>
+        </header>
+
+        <main>
+            <!-- Enlace para volver (asumiendo que index.html es el gimnasio) -->
+            <a href="index.html" class="back-link" data-i18n="back-button">&larr; Volver al Gimnasio</a>
+            
+            <h1 data-i18n="main-title"></h1>
+
+            <!-- Sección de Introducción (Hook) -->
+            <article class="doc-section hook">
+                <h3 data-i18n="hook-title"></h3>
+                <p data-i18n="hook-text"></p>
+            </article>
+            
+            <hr>
+
+            <!-- Sección de Método -->
+            <article class="doc-section method">
+                <h3 data-i18n="method-title"></h3>
+                <p data-i18n="method-text"></p>
+            </article>
+            
+            <!-- Sección de Guía -->
+            <article class="doc-section guide">
+                <h3 data-i18n="guide-title"></h3>
+                <p data-i18n="guide-text"></p>
+            </article>
+
+            <!-- Sección "Acerca de" -->
+            <article class="doc-section project-about">
+                <h3 data-i18n="project-title"></h3>
+                <p data-i18n="project-text"></p>
+            </article>
+
+            <!-- Título de la sección del Prompt -->
+            <h2 data-i18n="prompt-title"></h2>
+            
+            <!-- Contenedor del Prompt con botón de copiar -->
+            <div class="prompt-container">
+                <button id="copy-button" class="copy-button" data-i18n="copy-button"></button>
+                
+                <pre><code id="prompt-code">Cargando prompt...</code></pre>
+            </div>
+        </main>
+
+        <footer>
+            <p>© 2025 Para ad cogitantum</p>
+        </footer>
+    </div>
+
+    <!-- El script principal de la aplicación que cargará el contenido -->
+    <script src="assets/app.js"></script>
+</body>
+</html>
