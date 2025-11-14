@@ -1,7 +1,7 @@
 var pageContent = {
 // --- 標題與導航 ---
 "page-title": "蘇格拉底式演說家 - Para ad cogitantum",
-"main-title": "模組 3：蘇格拉底式演說家 (西塞羅分析)",
+"main-title": "模組 5：蘇格拉底式演說家 (西塞羅分析)",
 "back-button": "  返回思辨健身房",
 "prompt-title": "  提示詞 (複製貼上)",
 "copy-button": "複製提示詞",
