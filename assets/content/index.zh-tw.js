@@ -3,7 +3,7 @@ var pageContent = {
   "main-title": "Para ad cogitantum",
   "subtitle": "(批判性思維健身房)",
   "mission-title": "我們的使命",
-  "mission-text": "歡迎來到 <i>Para ad cogitantum</i>。這不僅僅是提示語的合集，這是一間<b>心智健身房</b>。我們的使命是使用人工智慧作為蘇格拉底式的<b>陪練夥伴</b>，來磨礪您最重要的工具：您的思考能力。這些提示語是透過結合教育學、哲學、辯證法和修辭學的方法設計的，旨在攻擊「思維惰性」並建立嚴謹的**邏輯**。它們是免費、開源的，供您使用。",
+  "mission-text": "歡迎來到 <i>Para ad cogitantum</i>。這不僅僅是提示語的合集，這是一間<b>心智健身房</b>。我們的使命是使用人工智慧作為蘇格拉底式的<b>陪練夥伴</b>，來磨礪您最重要的工具：您的思考能力。這些提示語是透過結合教育學、哲學、辯證法和修辭學的方法設計的，旨在攻擊「思維惰性」並建立嚴謹的邏輯。它們是免費、開源的，供您使用。",
   "training-title": "你的訓練 (MVP)",
   "prompt-pillar-title": "模組 1：邏輯導師 (支柱)",
   "prompt-pillar-desc": "級別：高中/大學。純粹的力量訓練。學習解構文本，區分論點與雜訊。",
@@ -12,7 +12,7 @@ var pageContent = {
   "prompt-community-title": "模組 3：辯論競技場 (社群)",
   "prompt-community-desc": "級別：國中/高中。用於您的謬誤檢測器的快節奏道場。",
   "prompt-refutation-1-title": "模組 4：鏡子遊戲 (小學)",
-  "prompt-refutation-1-desc": "級別：小學。抓住「鸚鵡眼」！一**個**發現言行不一的遊戲。",
+  "prompt-refutation-1-desc": "級別：小學。抓住「鸚鵡眼」！一個發現言行不一的遊戲。",
 
   // --- ¡NUEVO MÓDULO AÑADIDO! ---
   "prompt-orator-title": "模組 5：蘇格拉底式演說家 (進階)",
